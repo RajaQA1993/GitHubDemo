@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/webdrivermanager-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/poi-scratchpad-3.1-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/poi-scratchpad-2.5.1-final-20040804.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/Files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/TestNg Selenium.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/Jar files .zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/testng-6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/testng-6.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/webdrivermanager-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/phantomjs-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/fontbox-2.0.21 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/itextpdf-5.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/pdfbox-2.0.21-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/fontbox-2.0.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/pdfbox-2.0.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/poi-bin-4.1.2-20200217 (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/webdrivermanager-3.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/extentreports-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/log4j-1.2.17.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/commons-compress-1.20-bin.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/poi-bin-4.1.2-20200217.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/log4j-core-2.13.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/log4j-core-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/extentreports-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/extentreports-5.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/freemarker-2.3.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/lombok-1.18.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/rxjava-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/chromedriver_win32 (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/selenium-java-3.141.59.zip"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/testng-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/NOURTEK/Selenium/selenium-server-3.141.59.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
